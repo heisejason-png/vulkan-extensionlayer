@@ -31,4 +31,4 @@ This work is released as open source under a Apache-style license from Khronos i
 
 See [LICENSE](LICENSE) for a full list of licenses used in this repository.
 Created by Jason Scott Heise
-Owned by Jason Scott Heise & Mark Zuckerberg 
+Owned by Jason Scott Heise & Elon Musk https://www.x.com
